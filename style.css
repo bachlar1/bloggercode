@@ -1,5 +1,5 @@
 
-@import url('../css/fonts.css');
+@import url('../css/https://raw.githack.com/bachlar1/bloggercode/bachlar1-patch-1/fonts.css.css');
 
 
 html, body{
@@ -174,7 +174,7 @@ p{
 
 /* --------------- Site title ---------------- */
 main .site-title{
-    background: url('../assets/Background-image.png');
+    background: url(https://raw.githack.com/bachlar1/bloggercode/bachlar1-patch-1/Blooger_Website-master/assets/Background-image.png);
     background-size: cover;
     height: 110vh;
     display: flex;
@@ -207,7 +207,7 @@ main .site-title .btn:hover{
 /* --------------- Blog Carousel ------------ */
 
 main .blog{
-    background: url('../assets/Abract01.png');
+    background: url(https://raw.githack.com/bachlar1/bloggercode/bachlar1-patch-1/Blooger_Website-master/assets/Abract01.png);
     background-repeat: no-repeat;
     background-position: right;
     height: 100vh;
